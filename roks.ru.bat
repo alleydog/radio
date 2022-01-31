@@ -5,4 +5,4 @@ curl -sX GET https://roks.ru/player.php | findstr "https://md5-icecast-radiorock
 for /f "usebackq  delims=" %%i in (`find /n /v "" roks.tmp ^| find "[1]"`) do (set value=%%i)
 del -y roks.tmp
 set /p str=%value:~15,100% >> %USERPROFILE%\Music\radio\roks.ru.m3u < nul
-start mpv.exe %USERPROFILE%\Music\radio\roks.ru.m3u
+start mpv.com %USERPROFILE%\Music\radio\roks.ru.m3u

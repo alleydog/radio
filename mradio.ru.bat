@@ -7,4 +7,4 @@ del -y mradio.tmp
 echo #EXTM3U > %USERPROFILE%\Music\radio\mradio.ru.m3u
 echo #EXTINF:-1,mradio.ru >> %USERPROFILE%\Music\radio\mradio.ru.m3u
 set /p str3=%value:~7,92% >> %USERPROFILE%\Music\radio\mradio.ru.m3u < nul
-start mpv.exe %USERPROFILE%\Music\radio\mradio.ru.m3u
+start mpv.com %USERPROFILE%\Music\radio\mradio.ru.m3u
