@@ -5,8 +5,6 @@ https://bfm.hostingradio.ru:9075/fm
 http://icecast-vgtrk.cdnvideo.ru/capitalfmaac
 #EXTINF:-1,cultradio.ru
 http://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
-#EXTINF:-1,globalfm.ru
-https://globalfm.radio-tochka.com/gfm128
 #EXTINF:-1,kommersant.fm
 https://kommersant77.hostingradio.ru:8016/kommersant128.mp3
 #EXTINF:-1,megatoncaferadio.com
