@@ -12,17 +12,9 @@ https://kommersant77.hostingradio.ru:8016/kommersant128.mp3
 
 #
 
-http://icecast-vgtrk.cdnvideo.ru/moscowfm128
-
-http://icecast-vgtrk.cdnvideo.ru/capitalfmaac
-
-http://icecast-vgtrk.cdnvideo.ru/moscowtalk128
-
-#
+https://icecast-rian.cdnvideo.ru/voicerus
 
 https://radiomv.hostingradio.ru:80/radiomv128.mp3
-
-https://icecast-rian.cdnvideo.ru/voicerus
 
 https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
 
@@ -37,3 +29,11 @@ http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
 http://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
 
 http://icecast.vgtrk.cdnvideo.ru/unost_aac_64kbps
+#
+
+http://icecast-vgtrk.cdnvideo.ru/moscowfm128
+
+http://icecast-vgtrk.cdnvideo.ru/capitalfmaac
+
+http://icecast-vgtrk.cdnvideo.ru/moscowtalk128
+
