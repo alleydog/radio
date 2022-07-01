@@ -7,7 +7,7 @@ http://silverrain.hostingradio.ru/silver64.aac
 
 https://kommersant77.hostingradio.ru:8016/kommersant128.mp3
 #
-https://radiomv.hostingradio.ru:80/radiomv128.mp3
+https://radiomv.hostingradio.ru:80/radiomv64.aacp
 
 https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
 
