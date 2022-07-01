@@ -1,6 +1,3 @@
-#
-http://45.79.186.124/proxy/megatoncafe/stream
-#
 https://bfm.hostingradio.ru:9075/fm
 
 http://silverrain.hostingradio.ru/silver64.aac
@@ -28,3 +25,5 @@ http://icecast-vgtrk.cdnvideo.ru/moscowfm128
 http://icecast-vgtrk.cdnvideo.ru/capitalfmaac
 
 http://icecast-vgtrk.cdnvideo.ru/moscowtalk128
+#
+http://45.79.186.124/proxy/megatoncafe/stream
