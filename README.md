@@ -1,4 +1,6 @@
 #
+http://revoice.ru:8000/tunguska.mp3
+
 http://45.79.186.124/proxy/megatoncafe/stream
 #
 https://bfm.hostingradio.ru:9075/fm
