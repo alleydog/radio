@@ -21,7 +21,6 @@ http://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
 ```
 ```
 https://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128
-
 ```
 ```
 https://stream.radiojar.com/hcrb063nn3quv
