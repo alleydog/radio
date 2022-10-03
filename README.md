@@ -1,8 +1,8 @@
 ```
-http://revoice.ru:8000/tunguska.mp3
-```
-```
 http://45.79.186.124/proxy/megatoncafe/stream
+```
+```
+http://revoice.ru:8000/tunguska.mp3
 ```
 ```
 https://silverrain.hostingradio.ru/silver64.aac
