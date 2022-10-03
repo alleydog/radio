@@ -8,8 +8,14 @@ http://45.79.186.124/proxy/megatoncafe/stream
 https://silverrain.hostingradio.ru/silver64.aac
 ```
 ```
-http://icecast.vgtrk.cdnvideo.ru/unost_aac_64kbps
-http://icecast.vgtrk.cdnvideo.ru/mayakfm_aac_64kbps
-http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
 http://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
+```
+```
+http://icecast.vgtrk.cdnvideo.ru/mayakfm_aac_64kbps
+```
+```
+http://icecast.vgtrk.cdnvideo.ru/unost_aac_64kbps
+```
+```
+http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
 ```
