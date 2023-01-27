@@ -1,17 +1,30 @@
-bfm.ru [87.5 FM]
-kommersant.ru [93.6 FM]
-megatoncaferadio.com
-capitalfm.moscow [105.3 FM]
-mosfm.com [92.0 FM]
-radiomoskvy.ru
-mradio.ru
-radiomv.ru [107.8 FM]
-radiosputnik.ru [91.2 FM]
-radiotunguska.com
-radiozvezda.ru [95.6 FM]
-roks.ru
-cultradio.ru [91.6 FM]
-radiomayak.ru [103.4 FM]
-radiorus.ru [66.4 FM]
-radiounost.ru
-radiovesti.ru [97.6 FM]
+|  MSK  | URL              |
++-------+------------------+
+| 66.4  | radiorus.ru      |
++-------+------------------+
+| 87.5  | bfm.ru           |
++-------+------------------+
+| 88.3  | retrofm.ru       |
++-------+------------------+
+| 91.2  | ria.ru           |
++-------+------------------+
+| 91.6  | cultradio.ru     |
++-------+------------------+
+| 92.0  | mosfm.com        |
++-------+------------------+
+| 93.6  | kommersant.ru    |
++-------+------------------+
+| 95.6  | radiozvezda.ru   |
++-------+------------------+
+| 97.2  | radiokp.ru       |
++-------+------------------+
+| 97.6  | radiovesti.ru    |
++-------+------------------+
+| 100.1 | silver.ru        |
++-------+------------------+
+| 103.4 | radiomayak.ru    |
++-------+------------------+
+| 105.3 | capitalfm.moscow |
++-------+------------------+
+| 107.8 | radiomv.ru       |
++-------+------------------+
