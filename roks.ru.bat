@@ -1,7 +1,7 @@
 @ECHO OFF
 SETLOCAL ENABLEDELAYEDEXPANSION
-ECHO #EXTM3U > roks.ru.m3u
-ECHO #EXTINF:-1,Радио Рокс / Весь рок на одной волне >> roks.ru.m3u
+ECHO #EXTM3U> roks.ru.m3u
+ECHO #EXTINF:-1,Радио Рокс>> roks.ru.m3u
 CURL -sX GET https://roks.ru/player.php | FINDSTR "https://md5-icecast-radiorocks.cdnvideo.ru/roks.stream?md5=" > roks.tmp
 FOR /F "USEBACKQ  DELIMS=" %%I IN (`FIND /N /V "" roks.tmp ^| FIND "[1]"`) DO (SET value=%%I)
 DEL -Y roks.tmp
