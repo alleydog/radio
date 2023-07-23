@@ -1,11 +1,3 @@
 #EXTM3U
-#EXTINF:-1,Маяк
-http://icecast.vgtrk.cdnvideo.ru/mayakfm_aac_32kbps
-#EXTINF:-1,Радио России
-http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_32kbps
-#EXTINF:-1,Вести FM
-http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_32kbps
-#EXTINF:-1,Радио Культура
-http://icecast.vgtrk.cdnvideo.ru/kulturafm_aac_32kbps
-#EXTINF:-1,Юность
+#EXTINF:-1,radiounost.ru
 http://icecast.vgtrk.cdnvideo.ru/unost_aac_32kbps
