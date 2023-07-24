@@ -1,25 +1,20 @@
 #EXTM3U
-
 #EXTINF:-1,Mayak / radiomayak.ru
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_aac_32kbps
 #EXTINF:-1,Mayak / radiomayak.ru
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-
 #EXTINF:-1,Radio Rossiyi / radiorus.ru
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_aac_32kbps
 #EXTINF:-1,Radio Rossiyi / radiorus.ru
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
-
 #EXTINF:-1,Vesti FM / radiovesti.ru
 http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_32kbps
 #EXTINF:-1,Vesti FM / radiovesti.ru
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-
 #EXTINF:-1,Culture / cultradio.ru
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_aac_32kbps
 #EXTINF:-1,Culture / cultradio.ru
 http://icecast.vgtrk.cdnvideo.ru/kulturafm
-
 #EXTINF:-1,Yunost / radiounost.ru
 http://icecast.vgtrk.cdnvideo.ru/unost_aac_32kbps
 #EXTINF:-1,Yunost / radiounost.ru
