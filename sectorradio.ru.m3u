@@ -5,39 +5,53 @@ http://89.223.45.5:8000/progressive-56
 http://89.223.45.5:8000/progressive-160
 #EXTINF:-1,Progressive
 http://89.223.45.5:8000/progressive-flac
+#EXTINF:-1,Progressive
+http://89.223.45.5:8000/progressive-mp3
 #EXTINF:-1,Space
 http://89.223.45.5:8000/space-56
 #EXTINF:-1,Space
 http://89.223.45.5:8000/space-160
 #EXTINF:-1,Space
 http://89.223.45.5:8000/space-flac
+#EXTINF:-1,Space
+http://89.223.45.5:8000/space-mp3
 #EXTINF:-1,Nota / Calassical
 http://89.223.45.5:8000/nota-56
 #EXTINF:-1,Nota / Calassical
 http://89.223.45.5:8000/nota-160
 #EXTINF:-1,Nota / Calassical
 http://89.223.45.5:8000/nota-flac
+#EXTINF:-1,Nota / Calassical
+http://89.223.45.5:8000/nota-mp3
 #EXTINF:-1,Geny / 80s
 http://89.223.45.5:8000/geny-56
 #EXTINF:-1,Geny / 80s
 http://89.223.45.5:8000/geny-160
 #EXTINF:-1,Geny / 80s
 http://89.223.45.5:8000/geny-flac
+#EXTINF:-1,Geny / 80s
+http://89.223.45.5:8000/geny-mp3
 #EXTINF:-1,Next / 90s
 http://89.223.45.5:8000/next-56
 #EXTINF:-1,Next / 90s
 http://89.223.45.5:8000/next-160
 #EXTINF:-1,Next / 90s
 http://89.223.45.5:8000/next-flac
+#EXTINF:-1,Next / 90s
+http://89.223.45.5:8000/next-mp3
 #EXTINF:-1,Indigo / 00s
 http://89.223.45.5:8000/indigo-56
 #EXTINF:-1,Indigo / 00s
 http://89.223.45.5:8000/indigo-160
 #EXTINF:-1,Indigo / 00s
 http://89.223.45.5:8000/indigo-flac
+#EXTINF:-1,Indigo / 00s
+http://89.223.45.5:8000/indigo-mp3
 #EXTINF:-1,Zed / 10s
 http://89.223.45.5:8000/zed-56
 #EXTINF:-1,Zed / 10s
 http://89.223.45.5:8000/zed-160
 #EXTINF:-1,Zed / 10s
 http://89.223.45.5:8000/zed-flac
+#EXTINF:-1,Zed / 10s
+http://89.223.45.5:8000/zed-mp3
