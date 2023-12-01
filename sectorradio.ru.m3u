@@ -15,13 +15,13 @@ http://89.223.45.5:8000/space-160
 http://89.223.45.5:8000/space-mp3
 #EXTINF:-1,Space
 http://89.223.45.5:8000/space-flac
-#EXTINF:-1,Nota / Calassical
+#EXTINF:-1,Nota / Classical
 http://89.223.45.5:8000/nota-56
-#EXTINF:-1,Nota / Calassical
+#EXTINF:-1,Nota / Classical
 http://89.223.45.5:8000/nota-160
-#EXTINF:-1,Nota / Calassical
+#EXTINF:-1,Nota / Classical
 http://89.223.45.5:8000/nota-mp3
-#EXTINF:-1,Nota / Calassical
+#EXTINF:-1,Nota / Classical
 http://89.223.45.5:8000/nota-flac
 #EXTINF:-1,Geny / 80s
 http://89.223.45.5:8000/geny-56
