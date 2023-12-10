@@ -19,25 +19,25 @@ http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
 http://icecast.vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
 #EXTINF:-1,Radio Rossiyi
 http://icecast.vgtrk.cdnvideo.ru/rrzonam
-#EXTINF:-1,Vesti FM
+#EXTINF:-1,Vesti
 http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_32kbps
-#EXTINF:-1,Vesti FM
+#EXTINF:-1,Vesti
 http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
-#EXTINF:-1,Vesti FM
+#EXTINF:-1,Vesti
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
-#EXTINF:-1,Vesti FM
+#EXTINF:-1,Vesti
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:-1,Vesti FM
+#EXTINF:-1,Vesti
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1,Culture
+#EXTINF:-1,Kultura
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_aac_32kbps
-#EXTINF:-1,Culture
+#EXTINF:-1,Kultura
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
-#EXTINF:-1,Culture
+#EXTINF:-1,Kultura
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps
-#EXTINF:-1,Culture
+#EXTINF:-1,Kultura
 http://icecast.vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
-#EXTINF:-1,Culture
+#EXTINF:-1,Kultura
 http://icecast.vgtrk.cdnvideo.ru/kulturafm
 #EXTINF:-1,Yunost
 http://icecast.vgtrk.cdnvideo.ru/unost_aac_32kbps
