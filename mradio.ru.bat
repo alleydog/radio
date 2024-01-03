@@ -13,5 +13,5 @@ DEL -Y player.html mradio.tmp
 ECHO.>> mradio.ru.m3u
 ECHO #EXTINF:-1,M-Radio>> mradio.ru.m3u
 SET /P STR3=%source:~7,92% >> mradio.ru.m3u < NUL
-ENDLOCAL
 START vlc mradio.ru.m3u
+ENDLOCAL
