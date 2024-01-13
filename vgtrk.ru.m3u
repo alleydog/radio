@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Sputnik
+https://icecast-rian.cdnvideo.ru/voicerus
 #EXTINF:-1,Mayak
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
 #EXTINF:-1,Mayak
