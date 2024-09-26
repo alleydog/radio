@@ -1,9 +1,0 @@
-#EXTM3U
-#EXTINF:-1,mosfm.com
-https://icecast-vgtrk.cdnvideo.ru/moscowfm128
-#EXTINF:-1,capitalfm.moscow
-https://icecast-vgtrk.cdnvideo.ru/capitalfmmp3
-#EXTINF:-1,capitalfm.moscow
-https://icecast-vgtrk.cdnvideo.ru/capitalfmaac
-#EXTINF:-1,radiomoskvy.ru
-https://icecast-vgtrk.cdnvideo.ru/moscowtalk128
