@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1,oper.ru/audio.xml
+https://oper.ru/audio.xml
+#EXTINF:-1,oper.ru/video.xml
+https://oper.ru/video.xml
+#EXTINF:-1,radiosputnik.ru/export/itunes/rss2/istoricheskiy-likbez.xml
+https://radiosputnik.ru/export/itunes/rss2/istoricheskiy-likbez.xml
+#EXTINF:-1,radiosputnik.ru/export/itunes/rss2/strana-rybakov.xml
+https://radiosputnik.ru/export/itunes/rss2/strana-rybakov.xml
+#EXTINF:-1,cloud.mave.digital/39446
+https://cloud.mave.digital/39446
+#EXTINF:-1,vk.com/podcasts-32580862.rss
+https://vk.com/podcasts-32580862.rss
+#EXTINF:-1,vk.com/podcasts-98395516.rss
+https://vk.com/podcasts-98395516.rss
+#EXTINF:-1,vk.com/podcasts-190320587.rss
+https://vk.com/podcasts-190320587.rss
