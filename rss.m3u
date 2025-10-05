@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:-1,oper.ru/audio.xml
+#EXTINF:-1,Tynu40k Goblina
 https://oper.ru/audio.xml
-#EXTINF:-1,oper.ru/video.xml
+#EXTINF:-1,Tynu40k Goblina
 https://oper.ru/video.xml
-#EXTINF:-1,radiosputnik.ru/export/itunes/rss2/istoricheskiy-likbez.xml
-https://radiosputnik.ru/export/itunes/rss2/istoricheskiy-likbez.xml
-#EXTINF:-1,radiosputnik.ru/export/itunes/rss2/strana-rybakov.xml
-https://radiosputnik.ru/export/itunes/rss2/strana-rybakov.xml
-#EXTINF:-1,cloud.mave.digital/39446
+#EXTINF:-1,Клим Жуков. Аудиоверсии
 https://cloud.mave.digital/39446
-#EXTINF:-1,vk.com/podcasts-32580862.rss
+#EXTINF:-1,Proshloe
 https://vk.com/podcasts-32580862.rss
-#EXTINF:-1,vk.com/podcasts-98395516.rss
+#EXTINF:-1,Родина слонов
 https://vk.com/podcasts-98395516.rss
-#EXTINF:-1,vk.com/podcasts-190320587.rss
+#EXTINF:-1,НаукаPRO
 https://vk.com/podcasts-190320587.rss
+#EXTINF:-1,Страна рыбаков
+https://radiosputnik.ru/export/itunes/rss2/strana-rybakov.xml
+#EXTINF:-1,Исторический ликбез
+https://radiosputnik.ru/export/itunes/rss2/istoricheskiy-likbez.xml
