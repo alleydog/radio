@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1,orpheusradio.ru
-https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
-#EXTINF:-1,orpheusradio.ru
-https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
-#EXTINF:-1,orpheusradio.ru
-https://orfeyfm.hostingradio.ru:8034/orfeyfm64.mp3
-#EXTINF:-1,orpheus.ru
-https://orfeyfm.hostingradio.ru:8034/orpheuscwb192.mp3
-#EXTINF:-1,orpheus.ru
-https://orfeyfm.hostingradio.ru:8034/orpheuscwb128.mp3
-#EXTINF:-1,orpheus.ru
-https://orfeyfm.hostingradio.ru:8034/orpheuscwb64.mp3
 #EXTINF:-1,Crossover
 https://radio.orpheus.ru:8000/Chan_6_192.mp3
 #EXTINF:-1,Estrada
