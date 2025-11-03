@@ -1,72 +1,72 @@
 #EXTM3U
-#EXTINF:-1,SECTOR | Progressive 56
+#EXTINF:-1,SECTOR | Progressive OPUS
 http://89.223.45.5:8000/progressive-56
-#EXTINF:-1,SECTOR | Progressive 192
+#EXTINF:-1,SECTOR | Progressive OGG
 http://89.223.45.5:8000/progressive-160
-#EXTINF:-1,SECTOR | Progressive Flac
+#EXTINF:-1,SECTOR | Progressive FLAC
 http://89.223.45.5:8000/progressive-flac
-#EXTINF:-1,SECTOR | Progressive mp3 channel
+#EXTINF:-1,SECTOR | Progressive MP3
 http://89.223.45.5:8000/progressive-mp3
 
-#EXTINF:-1,SECTOR | Space 56
+#EXTINF:-1,SECTOR | Space OPUS
 http://89.223.45.5:8000/space-56
-#EXTINF:-1,SECTOR | Space 192
+#EXTINF:-1,SECTOR | Space OGG
 http://89.223.45.5:8000/space-160
 #EXTINF:-1,SECTOR | Space FLAC
 http://89.223.45.5:8000/space-flac
-#EXTINF:-1,SECTOR | Space mp3 channel
+#EXTINF:-1,SECTOR | Space MP3
 http://89.223.45.5:8000/space-mp3
 
-#EXTINF:-1,SECTOR | Nota 56
+#EXTINF:-1,SECTOR | Nota OPUS
 http://89.223.45.5:8000/nota-56
-#EXTINF:-1,SECTOR | Nota 192
+#EXTINF:-1,SECTOR | Nota OGG
 http://89.223.45.5:8000/nota-160
 #EXTINF:-1,SECTOR | Nota FLAC
 http://89.223.45.5:8000/nota-flac
-#EXTINF:-1,SECTOR | Nota mp3 channel
+#EXTINF:-1,SECTOR | Nota MP3
 http://89.223.45.5:8000/nota-mp3
 
-#EXTINF:-1,SECTOR | Jazz 56
+#EXTINF:-1,SECTOR | Jazz OPUS
 http://89.223.45.5:8000/jazz-56
-#EXTINF:-1,SECTOR | Jazz 192
+#EXTINF:-1,SECTOR | Jazz OGG
 http://89.223.45.5:8000/jazz-160
 #EXTINF:-1,SECTOR | Jazz FLAC
 http://89.223.45.5:8000/jazz-flac
-#EXTINF:-1,SECTOR | Jazz mp3 channel
+#EXTINF:-1,SECTOR | Jazz MP3
 http://89.223.45.5:8000/jazz-mp3
 
-#EXTINF:-1,SECTOR | Geny 56
+#EXTINF:-1,SECTOR | Geny OPUS
 http://89.223.45.5:8000/geny-56
-#EXTINF:-1,SECTOR | Geny 192
+#EXTINF:-1,SECTOR | Geny OGG
 http://89.223.45.5:8000/geny-160
 #EXTINF:-1,SECTOR | Geny FLAC
 http://89.223.45.5:8000/geny-flac
-#EXTINF:-1,SECTOR | Geny mp3 channel
+#EXTINF:-1,SECTOR | Geny MP3
 http://89.223.45.5:8000/geny-mp3
 
-#EXTINF:-1,SECTOR | Next 56
+#EXTINF:-1,SECTOR | Next OPUS
 http://89.223.45.5:8000/next-56
-#EXTINF:-1,SECTOR | Next 192
+#EXTINF:-1,SECTOR | Next OGG
 http://89.223.45.5:8000/next-160
 #EXTINF:-1,SECTOR | Next FLAC
 http://89.223.45.5:8000/next-flac
-#EXTINF:-1,SECTOR | Next mp3 channel
+#EXTINF:-1,SECTOR | Next MP3
 http://89.223.45.5:8000/next-mp3
 
-#EXTINF:-1,SECTOR | Indigo 56
+#EXTINF:-1,SECTOR | Indigo OPUS
 http://89.223.45.5:8000/indigo-56
-#EXTINF:-1,SECTOR | Indigo 192
+#EXTINF:-1,SECTOR | Indigo OGG
 http://89.223.45.5:8000/indigo-160
-#EXTINF:-1,SECTOR | Indigo flac 
+#EXTINF:-1,SECTOR | Indigo FLAC
 http://89.223.45.5:8000/indigo-flac
 #EXTINF:-1,SECTOR | Indigo mp3
 http://89.223.45.5:8000/indigo-mp3
 
-#EXTINF:-1,SECTOR | Zed 56
+#EXTINF:-1,SECTOR | Zed OPUS
 http://89.223.45.5:8000/zed-56
-#EXTINF:-1,SECTOR | Zed 192
+#EXTINF:-1,SECTOR | Zed OGG
 http://89.223.45.5:8000/zed-160
-#EXTINF:-1,SECTOR | Zed flac 
+#EXTINF:-1,SECTOR | Zed FLAC
 http://89.223.45.5:8000/zed-flac
-#EXTINF:-1,SECTOR | Zed mp3
+#EXTINF:-1,SECTOR | Zed MP3
 http://89.223.45.5:8000/zed-mp3
