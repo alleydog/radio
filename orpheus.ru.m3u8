@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:-1,ORPHEUS | Прямой эфир радио «Орфей», 64 kbps
+https://orfeyfm.hostingradio.ru:8034/orfeyfm64.mp3
+#EXTINF:-1,ORPHEUS | Прямой эфир радио «Орфей», 128 kbps
+https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
+#EXTINF:-1,ORPHEUS | Прямой эфир радио «Орфей», 192 kbps
+https://orfeyfm.hostingradio.ru:8034/orfeyfm192.mp3
+
+#EXTINF:-1,ORPHEUS | Орфей. Классика без границ, 64 kbps
+https://orfeyfm.hostingradio.ru:8034/orpheuscwb64.mp3
+#EXTINF:-1,ORPHEUS | Орфей. Классика без границ, 128 kbps
+https://orfeyfm.hostingradio.ru:8034/orpheuscwb128.mp3
+#EXTINF:-1,ORPHEUS | Орфей. Классика без границ, 192 kbps
+https://orfeyfm.hostingradio.ru:8034/orpheuscwb192.mp3
+
+#EXTINF:-1,ORPHEUS | Классика музыкального кроссовера
+https://radio.orpheus.ru:8000/Chan_6_192.mp3
+#EXTINF:-1,ORPHEUS | Классика эстрады
+https://radio.orpheus.ru:8000/Chan_7_192.mp3
+#EXTINF:-1,ORPHEUS | Классика крупных форм
+https://radio.orpheus.ru:8000/Chan_8_192.mp3
+#EXTINF:-1,ORPHEUS | Классика киномузыки
+https://radio.orpheus.ru:8000/Chan_9_192.mp3
+#EXTINF:-1,ORPHEUS | Классика джаза
+https://radio.orpheus.ru:8000/Chan_12_192.mp3
+#EXTINF:-1,ORPHEUS | Классика российской музыки
+https://radio.orpheus.ru:8000/Chan_17_192.mp3
+
+#EXTINF:-1,ORPHEUS | Зарубежная хоровая, 64 kbps
+https://radio.orpheus.ru:8000/Chan_60_64.mp3
+#EXTINF:-1,ORPHEUS | Зарубежная хоровая, 128 kbps
+https://radio.orpheus.ru:8000/Chan_60_128.mp3
+#EXTINF:-1,ORPHEUS | Зарубежная хоровая, 256 kbps
+https://radio.orpheus.ru:8000/Chan_60_256.mp3
+
+#EXTINF:-1,ORPHEUS | Современная хоровая, 64 kbps
+https://radio.orpheus.ru:8000/Chan_61_64.mp3
+#EXTINF:-1,ORPHEUS | Современная хоровая, 128 kbps
+https://radio.orpheus.ru:8000/Chan_61_128.mp3
+#EXTINF:-1,ORPHEUS | Современная хоровая, 256 kbps
+https://radio.orpheus.ru:8000/Chan_61_256.mp3
+
+#EXTINF:-1,ORPHEUS | Хоры из опер, 64 kbps
+https://radio.orpheus.ru:8000/Chan_62_64.mp3
+#EXTINF:-1,ORPHEUS | Хоры из опер, 128 kbps
+https://radio.orpheus.ru:8000/Chan_62_128.mp3
+#EXTINF:-1,ORPHEUS | Хоры из опер, 256 kbps
+https://radio.orpheus.ru:8000/Chan_62_256.mp3
+
+#EXTINF:-1,ORPHEUS | Фолк-музыка, 64 kbps
+https://radio.orpheus.ru:8000/Chan_63_64.mp3
+#EXTINF:-1,ORPHEUS | Фолк-музыка, 128 kbps
+https://radio.orpheus.ru:8000/Chan_63_128.mp3
+#EXTINF:-1,ORPHEUS | Фолк-музыка, 256 kbps
+https://radio.orpheus.ru:8000/Chan_63_256.mp3
+
+#EXTINF:-1,ORPHEUS | Русская хоровая, 64 kbps
+https://radio.orpheus.ru:8000/Chan_64_64.mp3
+#EXTINF:-1,ORPHEUS | Русская хоровая, 128 kbps
+https://radio.orpheus.ru:8000/Chan_64_128.mp3
+#EXTINF:-1,ORPHEUS | Русская хоровая, 256 kbps
+https://radio.orpheus.ru:8000/Chan_64_256.mp3
+
+#EXTINF:-1,ORPHEUS | Музыка с участием духовых, 64 kbps
+https://radio.orpheus.ru:8000/Chan_65_64.mp3
+#EXTINF:-1,ORPHEUS | Музыка с участием духовых, 128 kbps
+https://radio.orpheus.ru:8000/Chan_65_128.mp3
+#EXTINF:-1,ORPHEUS | Музыка с участием духовых, 256 kbps
+https://radio.orpheus.ru:8000/Chan_65_256.mp3
+
+#EXTINF:-1,ORPHEUS | Музыка мюзиклов, 64 kbps
+https://radio.orpheus.ru:8000/Chan_66_64.mp3
+#EXTINF:-1,ORPHEUS | Музыка мюзиклов, 128 kbps
+https://radio.orpheus.ru:8000/Chan_66_128.mp3
+#EXTINF:-1,ORPHEUS | Музыка мюзиклов, 256 kbps
+https://radio.orpheus.ru:8000/Chan_66_256.mp3
+
+#EXTINF:-1,ORPHEUS | Популярная классика, 64 kbps
+https://radio.orpheus.ru:8000/Chan_72_64.mp3
+#EXTINF:-1,ORPHEUS | Популярная классика, 128 kbps
+https://radio.orpheus.ru:8000/Chan_72_128.mp3
+#EXTINF:-1,ORPHEUS | Популярная классика, 256 kbps
+https://radio.orpheus.ru:8000/Chan_72_256.mp3
+
+#EXTINF:-1,ORPHEUS | Симфоническая музыка, 64 kbps
+https://radio.orpheus.ru:8000/Chan_74_64.mp3
+#EXTINF:-1,ORPHEUS | Симфоническая музыка, 128 kbps
+https://radio.orpheus.ru:8000/Chan_74_128.mp3
+#EXTINF:-1,ORPHEUS | Симфоническая музыка, 256 kbps
+https://radio.orpheus.ru:8000/Chan_74_256.mp3
+
+#EXTINF:-1,ORPHEUS | Бельканто, 64 kbps
+https://radio.orpheus.ru:8000/Chan_75_64.mp3
+#EXTINF:-1,ORPHEUS | Бельканто, 128 kbps
+https://radio.orpheus.ru:8000/Chan_75_128.mp3
+#EXTINF:-1,ORPHEUS | Бельканто, 256 kbps
+https://radio.orpheus.ru:8000/Chan_75_256.mp3
+
+#EXTINF:-1,ORPHEUS | Камерата, 64 kbps
+https://radio.orpheus.ru:8000/Chan_76_64.mp3
+#EXTINF:-1,ORPHEUS | Камерата, 128 kbps
+https://radio.orpheus.ru:8000/Chan_76_128.mp3
+#EXTINF:-1,ORPHEUS | Камерата, 256 kbps
+https://radio.orpheus.ru:8000/Chan_76_256.mp3
+
+#EXTINF:-1,ORPHEUS | Клавир, 64 kbps
+https://radio.orpheus.ru:8000/Chan_77_64.mp3
+#EXTINF:-1,ORPHEUS | Клавир, 128 kbps
+https://radio.orpheus.ru:8000/Chan_77_128.mp3
+#EXTINF:-1,ORPHEUS | Клавир, 256 kbps
+https://radio.orpheus.ru:8000/Chan_77_256.mp3
