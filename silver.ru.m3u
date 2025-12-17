@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1,silver.ru, 128 kbps
+https://silverrain.hostingradio.ru/silver128.mp3
+#EXTINF:-1,silver.ru, 48 kbps
+https://silverrain.hostingradio.ru/silver48.mp3
+#EXTINF:-1,silver.ru, 64 kbps, AAC
+https://silverrain.hostingradio.ru/silver64.aac
