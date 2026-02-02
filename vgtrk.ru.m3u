@@ -1,65 +1,66 @@
 #EXTM3U
-#EXTINF:-1,Маяк, 320 kbps
+
+#EXTINF:-1,Mayak, MP3, 320 kbps
 http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1,Маяк, 192 kbps
+#EXTINF:-1,Mayak, MP3, 192 kbps
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_192kbps
-#EXTINF:-1,Маяк, 128 kbps
+#EXTINF:-1,Mayak, MP3, 128 kbps
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_128kbps
-#EXTINF:-1,Маяк, 64 kbps
+#EXTINF:-1,Mayak, MP3, 64 kbps
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_mp3_64kbps
-#EXTINF:-1,Маяк, 64 kbps, AAC
+#EXTINF:-1,Mayak, AAC, 64 kbps
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_aac_64kbps
-#EXTINF:-1,Маяк, 32 kbps, AAC
+#EXTINF:-1,Mayak, AAC, 32 kbps
 http://icecast.vgtrk.cdnvideo.ru/mayakfm_aac_32kbps
 
-#EXTINF:-1,Радио России, 320 kbps
+#EXTINF:-1,Radio Rossiyi, MP3, 320 kbps
 http://icecast-vgtrk.cdnvideo.ru/rrzonam
-#EXTINF:-1,Радио России, 192 kbps
+#EXTINF:-1,Radio Rossiyi, MP3, 192 kbps
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_192kbps
-#EXTINF:-1,Радио России, 128 kbps
+#EXTINF:-1,Radio Rossiyi, MP3, 128 kbps
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_128kbps
-#EXTINF:-1,Радио России, 64 kbps
+#EXTINF:-1,Radio Rossiyi, MP3, 64 kbps
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_mp3_64kbps
-#EXTINF:-1,Радио России, 64 kbps, AAC
+#EXTINF:-1,Radio Rossiyi, AAC, 64 kbps
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_aac_64kbps
-#EXTINF:-1,Радио России, 32 kbps, AAC
+#EXTINF:-1,Radio Rossiyi, AAC, 32 kbps
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_aac_32kbps
 
-#EXTINF:-1,Вести FM, 320 kbps
+#EXTINF:-1,Vesti FM, MP3, 320 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1,Вести FM, 192 kbps
+#EXTINF:-1,Vesti FM, MP3, 192 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:-1,Вести FM, 128 kbps
+#EXTINF:-1,Vesti FM, MP3, 128 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
-#EXTINF:-1,Вести FM, 64 kbps
+#EXTINF:-1,Vesti FM, MP3, 64 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
-#EXTINF:-1,Вести FM, 64 kbps, AAC
+#EXTINF:-1,Vesti FM, AAC, 64 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
-#EXTINF:-1,Вести FM, 32 kbps, AAC
+#EXTINF:-1,Vesti FM, AAC, 32 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_32kbps
 
-#EXTINF:-1,Радио Культура, 320 kbps
+#EXTINF:-1,Culture, MP3, 320 kbps
 http://icecast-vgtrk.cdnvideo.ru/kulturafm
-#EXTINF:-1,Радио Культура, 192 kbps
+#EXTINF:-1,Culture, MP3, 192 kbps
 http://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_192kbps
-#EXTINF:-1,Радио Культура, 128 kbps
+#EXTINF:-1,Culture, MP3, 128 kbps
 http://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_128kbps
-#EXTINF:-1,Радио Культура, 64 kbps
+#EXTINF:-1,Culture, MP3, 64 kbps
 http://icecast-vgtrk.cdnvideo.ru/kulturafm_mp3_64kbps
-#EXTINF:-1,Радио Культура, 64 kbps, AAC
+#EXTINF:-1,Culture, AAC, 64 kbps
 http://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_64kbps
-#EXTINF:-1,Радио Культура, 32 kbps, AAC
+#EXTINF:-1,Culture, AAC, 32 kbps
 http://icecast-vgtrk.cdnvideo.ru/kulturafm_aac_32kbps
 
-#EXTINF:-1,Юность, 320 kbps
+#EXTINF:-1,Yunost, MP3, 320 kbps
 http://icecast.vgtrk.cdnvideo.ru/unost
-#EXTINF:-1,Юность, 192 kbps
+#EXTINF:-1,Yunost, MP3, 192 kbps
 http://icecast.vgtrk.cdnvideo.ru/unost_mp3_192kbps
-#EXTINF:-1,Юность, 128 kbps
+#EXTINF:-1,Yunost, MP3, 128 kbps
 http://icecast.vgtrk.cdnvideo.ru/unost_mp3_128kbps
-#EXTINF:-1,Юность, 64 kbps
+#EXTINF:-1,Yunost, MP3, 64 kbps
 http://icecast.vgtrk.cdnvideo.ru/unost_mp3_64kbps
-#EXTINF:-1,Юность, 64 kbps, AAC
+#EXTINF:-1,Yunost, AAC, 64 kbps
 http://icecast.vgtrk.cdnvideo.ru/unost_aac_64kbps
-#EXTINF:-1,Юность, 32 kbps, AAC
+#EXTINF:-1,Yunost, AAC, 32 kbps
 http://icecast.vgtrk.cdnvideo.ru/unost_aac_32kbps
