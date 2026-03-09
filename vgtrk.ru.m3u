@@ -26,17 +26,17 @@ http://icecast-vgtrk.cdnvideo.ru/rrzonam_aac_64kbps
 #EXTINF:-1,radiorus.ru, AAC, 32 kbps
 http://icecast-vgtrk.cdnvideo.ru/rrzonam_aac_32kbps
 
-#EXTINF:-1,vesti.ru, MP3, 320 kbps
+#EXTINF:-1,radiovesti.ru, MP3, 320 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1,vesti.ru, MP3, 192 kbps
+#EXTINF:-1,radiovesti.ru, MP3, 192 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_192kbps
-#EXTINF:-1,vesti.ru, MP3, 128 kbps
+#EXTINF:-1,radiovesti.ru, MP3, 128 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_128kbps
-#EXTINF:-1,vesti.ru, MP3, 64 kbps
+#EXTINF:-1,radiovesti.ru, MP3, 64 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_mp3_64kbps
-#EXTINF:-1,vesti.ru, AAC, 64 kbps
+#EXTINF:-1,radiovesti.ru, AAC, 64 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_64kbps
-#EXTINF:-1,vesti.ru, AAC, 32 kbps
+#EXTINF:-1,radiovesti.ru, AAC, 32 kbps
 http://icecast.vgtrk.cdnvideo.ru/vestifm_aac_32kbps
 
 #EXTINF:-1,cultradio.ru, MP3, 320 kbps
